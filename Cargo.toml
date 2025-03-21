@@ -1,0 +1,8 @@
+[package]
+name = "bfcli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bflib = { path = "bflib" }
+crossterm = "0.28.1"
